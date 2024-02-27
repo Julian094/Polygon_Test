@@ -77,4 +77,5 @@ protected:
 	UFUNCTION(BlueprintImplementableEvent)
 	void BP_SetInitialVisualEffect();
 
+	
 };

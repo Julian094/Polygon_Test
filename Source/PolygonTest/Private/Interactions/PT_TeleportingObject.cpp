@@ -94,6 +94,7 @@ void APT_TeleportingObject::EndInteraction()
 				PlayerCharacter->GetCharacterMovement()->SetMovementMode(MOVE_Walking);
 				PutObjectOnInitialLocation();
 				BP_SetInitialVisualEffect();
+				
 			}
 		}
 	}
